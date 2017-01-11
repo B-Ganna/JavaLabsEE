@@ -1,0 +1,5 @@
+       Type of collection                 add                 get              remove            contains            populate        iterator.add     iterator.remove
+                ArrayList                1883                  89                3130              375514               21264                 104              317922
+               LinkedList               95724               82421               67954            11692369               19613                 127                 639
+                  TreeSet                1454                  -1                2410                2779              136046                  -1                  -1
+                  HashSet                 283                  -1                1293                 721               45117                  -1                  -1
